@@ -34,14 +34,15 @@ by Julien_007
 
 # Initial steps to run the project :
 
-    1) Install
+1) Install
 
     ``yarn install ``
         OR
-        ``yarn``
+    ``yarn``
 
-    2) create a .env file``bash         touch .env         ``
-    3) add your string connection on it ,such as :
+2) create a .env file
+   ``bash         touch .env         ``
+3) add your string connection on it ,such as :
 
 ```
     HOST =""
@@ -51,7 +52,7 @@ by Julien_007
     DB=""  
 ```
 
-    4)run the project :
+4)run the project :
 
     ``npm run tour``
 
